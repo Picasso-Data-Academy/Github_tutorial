@@ -28,3 +28,6 @@ select * from students
 --test in 2/11 by suki
 select * from students
 
+--new test from tracy
+select * from movies
+
