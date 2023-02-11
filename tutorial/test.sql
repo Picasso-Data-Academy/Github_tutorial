@@ -4,3 +4,4 @@ select * from customers where id > 1
 --test in 2/11 by suki
 select * from students
 
+select * from movies
