@@ -21,3 +21,6 @@ select * from students
 --test in 2/11 by suki
 select * from students
 
+-- xyz addition #1
+select * from students1
+
