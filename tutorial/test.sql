@@ -28,7 +28,18 @@ select * from students
 --test in 2/11 by suki
 select * from students
 
+
+-- xyz addition #1
+select * from students1
+
+-- xyz addition #2
+select * from student2
+
+-- xyz addition #3
+select * from student3
+
 --new test from tracy
 select * from movies
 
 --2nd new test by tracy
+
