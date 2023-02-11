@@ -27,4 +27,5 @@ select * from students
 
 --test in 2/11 by suki
 select * from students
-
+--test round 2 by Hanhan
+select * from test
