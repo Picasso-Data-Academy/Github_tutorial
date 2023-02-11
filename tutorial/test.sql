@@ -1,4 +1,10 @@
 
+select * from customers
+
+-- this is the test on 2/11
+select * from studentlist_xyz
+=======
+
 --this is a test file for class
 select * from customers
 
@@ -14,5 +20,4 @@ select * from students
 
 --test in 2/11 by suki
 select * from students
-
 
