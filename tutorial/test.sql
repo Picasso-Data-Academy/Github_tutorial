@@ -26,3 +26,6 @@ select * from students1
 
 -- xyz addition #2
 select * from student2
+
+-- xyz addition #3
+select * from student3
