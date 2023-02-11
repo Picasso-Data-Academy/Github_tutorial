@@ -24,3 +24,5 @@ select * from students
 -- xyz addition #1
 select * from students1
 
+-- xyz addition #2
+select * from student2
